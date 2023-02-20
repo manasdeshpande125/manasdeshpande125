@@ -36,10 +36,10 @@ I'm a Third Year student currently pursuing a Bachelor's Degree in Computer Engi
 </div>
 
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+### :fire: Github Statistics :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=manasdeshpande125)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasdeshpande125&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/manas-deshpande-47764221b/">
