@@ -46,3 +46,4 @@ I'm a Third Year student currently pursuing a Bachelor's Degree in Computer Engi
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=manasdeshpande125&style=flat-square&color=blue" alt=""/>
