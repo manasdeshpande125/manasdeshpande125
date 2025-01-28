@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-I'm a Third Year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology. I'm an open minded person and love to connect & interact with people.I'm  intrested in Cyber Security.Also I have interest in web development and data science. Apart from my studies, I love playing tabla, listening to music and running in marathons.
+I'm a First Year student currently pursuing a Master's Degree in Computer Science Engineering at the IIT Madras. I have done by BE from Pune Institue of Computer Technology, I'm an open minded person and love to connect & interact with people.I'm  intrested in Cyber Security.Also I have interest in web development and data science. Apart from my studies, I love playing tabla, listening to music and running in marathons.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
